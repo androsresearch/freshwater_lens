@@ -1,0 +1,35 @@
+Well,Priority,Step Evidence,Notebook,Page_Notebook,Initial_time_Notebook,final_time_Notebook,Notebook_date,Watertable_nom,Watertable_data,Raw_file_data,Notas_Carolina
+AW1D,,,Notebook2,57,10:50,11:26,2/27/2025,Toc to WT,1.645,_CorruptedDate - YellowA - 27thMaybe - Kor Measurement File Export - 022725 231713.csv,
+AW1O,,,Not found in notebook,,,,,,,_CorruptedDate - YellowA - 27thMaybe - Kor Measurement File Export - 022725 231713.csv,
+AW1S,,,Notebook2,57,12:08,12:13,2/27/2025,Toc to WT,1.85,"Este pozo Mario no lo buscó, ni Tom lo reportó, puede ser que no lo midieron, pero si aparece en las notas de campo, entonces habrá ue buscarlo con cuidado en el archivo crudo","Antes AW1O. Este pozo no existe en el notebook. Esta planteado para realizarse ese mismo dia, pero esta tachado"
+AW2D,,,Notebook2,67,15:27,16:25,3/11/2025,No data,No data,250311 - LRS65_AW2 - RedB - Kor Measurement File Export - 031125 215506.csv,"Estos pozos aparecen en los datos originales de Mario como Old 1 y Old2. En libreta de campo, son dos mediciones Deep, tomadas el mismo dia"
+AW2D,,,Notebook2,68,17:08,17:47,3/11/2025,No data,No data,250311 - LRS65_AW2 - RedB - Kor Measurement File Export - 031125 215506.csv,
+AW2O,,,Not found in notebook,,,,,,,Pozo no registrado,
+AW2S,,,Notebook2,67,14:53,15:26,3/11/2025,Vadose,1.045,250311 - LRS65_AW2 - RedB - Kor Measurement File Export - 031125 215506.csv,La fecha esta mal formateada desde el archivo crudo. El archivo crudo parece tener lectura de 5 pozos. Revisar si LRS65 fueron dos o tres lecturas en el notebook
+AW4O,,,Notebook2,56,16:38,19:51,2/26/2025,Toc to WT,1.245,250226 - AW6_AW4 - YellowA - KorEXO Measurement File Export - 022625 221047.csv,
+AW5D,Yes,Notebook + Graph,Notebook2,53,11:05,14:50,2/25/2025,Toc to WT,0.875,250225 - AW5_BW8_BW1 - YellowA - KorEXO Measurement File Export - 022525 233120.csv,
+AW5O,Yes,Notebook + Graph,Notebook2,52,9:19,10:48,2/25/2025,Toc to WT,0.36,250225 - AW5_BW8_BW1 - YellowA - KorEXO Measurement File Export - 022525 233120.csv,
+AW5S,Yes,Notebook + Graph,Notebook2,52,8:40,9:10,2/25/2025,Toc to WT,0.455,250225 - AW5_BW8_BW1 - YellowA - KorEXO Measurement File Export - 022525 233120.csv,
+AW6D,Yes,Notebook + Graph,Notebook2,55,10:15,13:20,2/26/2025,Toc to WT,1.31,250226 - AW6_AW4 - YellowA - KorEXO Measurement File Export - 022625 221047.csv,
+AW6O,Yes,Notebook + Graph,Notebook2,55,14:10,15:07,2/26/2025,Toc to WT,1.445,250226 - AW6_AW4 - YellowA - KorEXO Measurement File Export - 022625 221047.csv,
+AW6S,Yes,Notebook + Graph,Notebook2,55,13:32,13:56,2/26/2025,Toc to WT,1.525,250226 - AW6_AW4 - YellowA - KorEXO Measurement File Export - 022625 221047.csv,
+AW7D,,,Notebook1,36,15:08,17:18,3/8/2025,Vadose,1.75,"Este pozo Mario no lo buscó, ni Tom lo reportó, puede ser que no lo midieron, pero si aparece en las notas de campo, entonces habrá ue buscarlo con cuidado en el archivo crudo","En el archivo crudo se ven 4 pozos. Dos lecturas coinciden con las horas de la libreta. Pero no hay registro de un tercer pozo. Aparece como Deep, no Old"
+AW7O,,,Not found in notebook,,,,,,,250308 - LRS90_AW7 - RedB - Kor Measurement File Export - 030925 110746.csv,"En el archivo crudo se ven 4 pozos. Dos lecturas coinciden con las horas de la libreta. Pero no hay registro de un tercer pozo. Aparece como Deep, no Old"
+AW7S,,,Notebook1,36,14:23,14:55,3/8/2025,Vadose,1.83,250308 - LRS90_AW7 - RedB - Kor Measurement File Export - 030925 110746.csv,"La fecha esta mal formateada desde el archivo crudo? Lo revise y efectivamente es ""3 de agosto"". "
+BW3D,Yes,Notebook + Graph,Notebook2,44,16:05,20:30,2/22/2025,WT,3.625,HalfSecond - Kor Measurement File Export - 061125 151546.xlsx,No hay coincidencias para la busqueda del pozo. En file_comparison existen los pozos BW3D10 y BW3D5. Not sure which one isssssss
+BW3S,Yes,,Not measured,,,,,,,Not measured,
+LRS33D,,,Notebook2,69,15:41,17:57,3/13/2025,Vadose/TOC,2.34,250313 - LRS33 - RedB - Kor Measurement File Export - 031325 225716.csv,
+LRS33O1,,,Notebook1,42,13:49,14:01,3/13/2025,Vadose,1.42,250314 - LRS33OldWells_AW5Peepers - RedB - Kor Measurement File Export - 031425 223935 - copia.csv,Verifcar fecha - low priority en archivos vs libreta
+LRS33O2,,,Notebook1,42,14:31,14:51,3/13/2025,Vadose,1.11,250314 - LRS33OldWells_AW5Peepers - RedB - Kor Measurement File Export - 031425 223935 - copia.csv,Verifcar fecha - low priority en archivos vs libreta
+LRS33O3,,,Notebook1,42,15:08,15:29,3/13/2025,Vadose,1.26,250314 - LRS33OldWells_AW5Peepers - RedB - Kor Measurement File Export - 031425 223935 - copia.csv,Verifcar fecha - low priority en archivos vs libreta
+LRS33O4,,,Notebook1,43,15:52,16:15,3/13/2025,Vadose,1.17,250314 - LRS33OldWells_AW5Peepers - RedB - Kor Measurement File Export - 031425 223935 - copia.csv,Verifcar fecha - low priority en archivos vs libreta
+LRS33O5,,,Notebook1,43,16:27,16:49,3/13/2025,Vadose,1.33,250314 - LRS33OldWells_AW5Peepers - RedB - Kor Measurement File Export - 031425 223935 - copia.csv,Verifcar fecha - low priority en archivos vs libreta
+LRS33S,,,Notebook2,69,15:08,15:37,3/13/2025,Vadose/TOC,2.105,250313 - LRS33 - RedB - Kor Measurement File Export - 031325 225716.csv,
+LRS69DR,Yes,Notebook + Graph,Notebook2,41,?,15:02,2/22/2025,To WT,2.453,250222 - LRS69 - RedB - Kor Measurement File Export - 030525 235425.csv,
+LRS69OR,Yes,Notebook + Graph,Notebook2,41,10:08,12:03,2/22/2025,To WT,2.34,250222 - LRS69 - RedB - Kor Measurement File Export - 030525 235425.csv,
+LRS69SR,Yes,Notebook + Graph,Notebook2,41,?,?,2/22/2025,To WT,2.5,250222 - LRS69 - QuarterSecond - Kor Measurement File Export - 022225 232517.csv,
+LRS69D,Yes,No step evidence,Notebook2,42,15:35,15:44,2/22/2025,No data,No data,HalfSecond - Kor Measurement File Export - 061125 151546.xlsx,
+LRS69O,Yes,No step evidence,Notebook2,42,15:27,15:31,2/22/2025,No data,No data,HalfSecond - Kor Measurement File Export - 061125 151546.xlsx,
+LRS69S,Yes,No step evidence,Notebook2,42,13:32,15:34,2/22/2025,No data,No data,HalfSecond - Kor Measurement File Export - 061125 151546.xlsx,
+LRS70D,Yes,Notebook + Graph,Notebook1,26,10:13,14:53,2/26/2025,No data,No data,250226 - LRS70 - RedB - Kor Measurement File Export - 022625 160619.csv,
+LRS70S,Yes,Notebook + Graph,Notebook1,26,9:43,10:00,2/26/2025,No data,No data,250226 - LRS70 - RedB - Kor Measurement File Export - 022625 160619.csv,Si parece estar en el raw file
